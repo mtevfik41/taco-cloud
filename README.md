@@ -1,6 +1,6 @@
 # Taco Cloud
 
-The implementation of the "Taco Cloud" project in the book 'Spring in action' by me.
+The implementation of the "Taco Cloud" project in the book 'Spring in Action' by me.
 
 ## Built with
 
